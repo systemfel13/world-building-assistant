@@ -45,7 +45,7 @@ The tool acts as an intelligent assistant that organizes worldbuilding, detects 
 ### 1. Clone the repository
 
 ```bash
-git clone <your-repo-url>
+git clone https://github.com/systemfel13/world-building-assistant.git
 cd world-building-assistant
 ```
 
