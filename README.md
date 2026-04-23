@@ -1,4 +1,4 @@
-# World Building Assistant
+# Credea
 
 An AI-powered tool that helps creative professionals and hobbyists create and maintain fictional worlds. 
 The tool acts as an intelligent assistant that organizes worldbuilding, detects contradictions, and helps creators keep their world consistent — without taking over the creative process.
